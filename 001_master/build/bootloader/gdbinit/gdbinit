@@ -1,0 +1,2 @@
+source D:/DATN/App/Espressif/frameworks/ESP_Master/001_master/build/bootloader/gdbinit/symbols
+source D:/DATN/App/Espressif/frameworks/ESP_Master/001_master/build/bootloader/gdbinit/connect
