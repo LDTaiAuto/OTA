@@ -18,14 +18,14 @@ The system transfers firmware in Intel HEX format, ensuring reliable delivery us
 📦 Features
 
 🔹 Custom SPI Protocol
-  ACK (0x06) → Success
-  
-  
-  
-  NACK (0x15) → Retry required
-  
-  
-  STOP (0xEE) → OTA complete
+    ACK (0x06) → Success
+    
+    
+    
+    NACK (0x15) → Retry required
+    
+    
+    STOP (0xEE) → OTA complete
 
 
 🔹 Reliable Transmission
